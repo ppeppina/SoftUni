@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\PiggyBank\bin\Debug\PiggyBank.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\PiggyBank\bin\Debug\PiggyBank.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\PiggyBank\bin\Debug\PiggyBank.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\PiggyBank\obj\Debug\PiggyBank.csprojResolveAssemblyReference.cache
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\PiggyBank\obj\Debug\PiggyBank.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\PiggyBank\obj\Debug\PiggyBank.pdb

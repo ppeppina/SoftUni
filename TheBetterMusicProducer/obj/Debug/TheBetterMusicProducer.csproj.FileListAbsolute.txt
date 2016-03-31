@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.csprojResolveAssemblyReference.cache
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.pdb

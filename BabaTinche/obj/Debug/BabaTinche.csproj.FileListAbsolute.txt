@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\BabaTinche\bin\Debug\BabaTinche.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\BabaTinche\bin\Debug\BabaTinche.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\BabaTinche\bin\Debug\BabaTinche.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\BabaTinche\obj\Debug\BabaTinche.csprojResolveAssemblyReference.cache
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\BabaTinche\obj\Debug\BabaTinche.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\BabaTinche\obj\Debug\BabaTinche.pdb

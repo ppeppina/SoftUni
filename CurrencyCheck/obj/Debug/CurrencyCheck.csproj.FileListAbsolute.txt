@@ -1,0 +1,8 @@
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\CurrencyCheck\bin\Debug\CurrencyCheck.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\CurrencyCheck\bin\Debug\CurrencyCheck.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\CurrencyCheck\bin\Debug\CurrencyCheck.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\CurrencyCheck\obj\Debug\CurrencyCheck.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\CurrencyCheck\obj\Debug\CurrencyCheck.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\CurrencyCheck\bin\Debug\CurrencyCheck.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\CurrencyCheck\obj\Debug\CurrencyCheck.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\CurrencyCheck\obj\Debug\CurrencyCheck.pdb

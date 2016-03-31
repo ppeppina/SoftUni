@@ -1,0 +1,5 @@
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\DailyCalorieIntake\bin\Debug\DailyCalorieIntake.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\DailyCalorieIntake\bin\Debug\DailyCalorieIntake.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\DailyCalorieIntake\bin\Debug\DailyCalorieIntake.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\DailyCalorieIntake\obj\Debug\DailyCalorieIntake.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\DailyCalorieIntake\obj\Debug\DailyCalorieIntake.pdb

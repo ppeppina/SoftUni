@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\Tables\bin\Debug\Tables.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\Tables\bin\Debug\Tables.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\Tables\bin\Debug\Tables.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\Tables\obj\Debug\Tables.csprojResolveAssemblyReference.cache
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\Tables\obj\Debug\Tables.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\Tables\obj\Debug\Tables.pdb

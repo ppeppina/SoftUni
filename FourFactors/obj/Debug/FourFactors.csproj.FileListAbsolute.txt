@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\FourFactors\bin\Debug\FourFactors.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\FourFactors\bin\Debug\FourFactors.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\FourFactors\bin\Debug\FourFactors.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\FourFactors\obj\Debug\FourFactors.csprojResolveAssemblyReference.cache
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\FourFactors\obj\Debug\FourFactors.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\FourFactors\obj\Debug\FourFactors.pdb

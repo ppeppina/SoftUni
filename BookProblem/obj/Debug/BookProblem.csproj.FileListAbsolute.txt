@@ -1,0 +1,12 @@
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\BookProblem\bin\Debug\BookProblem.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\BookProblem\bin\Debug\BookProblem.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\BookProblem\bin\Debug\BookProblem.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\BookProblem\obj\Debug\BookProblem.csprojResolveAssemblyReference.cache
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\BookProblem\obj\Debug\BookProblem.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\BookProblem\obj\Debug\BookProblem.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\BookProblem\bin\Debug\BookProblem.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\BookProblem\obj\Debug\BookProblem.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\BookProblem\obj\Debug\BookProblem.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\BookProblem\bin\Debug\BookProblem.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\BookProblem\bin\Debug\BookProblem.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\BookProblem\obj\Debug\BookProblem.csprojResolveAssemblyReference.cache

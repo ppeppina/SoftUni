@@ -1,0 +1,9 @@
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\CompoundInterest\bin\Debug\CompoundInterest.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\CompoundInterest\bin\Debug\CompoundInterest.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\CompoundInterest\bin\Debug\CompoundInterest.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\CompoundInterest\obj\Debug\CompoundInterest.csprojResolveAssemblyReference.cache
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\CompoundInterest\obj\Debug\CompoundInterest.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\CompoundInterest\obj\Debug\CompoundInterest.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\CompoundInterest\bin\Debug\CompoundInterest.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\CompoundInterest\obj\Debug\CompoundInterest.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\CompoundInterest\obj\Debug\CompoundInterest.pdb

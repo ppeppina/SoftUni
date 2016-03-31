@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\MelonsAndWatermelons\bin\Debug\MelonsAndWatermelons.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\MelonsAndWatermelons\bin\Debug\MelonsAndWatermelons.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\MelonsAndWatermelons\bin\Debug\MelonsAndWatermelons.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\MelonsAndWatermelons\obj\Debug\MelonsAndWatermelons.csprojResolveAssemblyReference.cache
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\MelonsAndWatermelons\obj\Debug\MelonsAndWatermelons.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\MelonsAndWatermelons\obj\Debug\MelonsAndWatermelons.pdb

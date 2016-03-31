@@ -1,0 +1,6 @@
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\TravellerBob\bin\Debug\TravellerBob.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\TravellerBob\bin\Debug\TravellerBob.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\TravellerBob\bin\Debug\TravellerBob.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\TravellerBob\obj\Debug\TravellerBob.csprojResolveAssemblyReference.cache
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\TravellerBob\obj\Debug\TravellerBob.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\TravellerBob\obj\Debug\TravellerBob.pdb

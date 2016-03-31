@@ -1,0 +1,9 @@
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\TorrentPirate\bin\Debug\TorrentPirate.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\TorrentPirate\bin\Debug\TorrentPirate.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\TorrentPirate\bin\Debug\TorrentPirate.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\TorrentPirate\obj\Debug\TorrentPirate.csprojResolveAssemblyReference.cache
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\TorrentPirate\obj\Debug\TorrentPirate.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\ExamProblem1\TorrentPirate\obj\Debug\TorrentPirate.pdb
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\TorrentPirate\bin\Debug\TorrentPirate.exe.config
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\TorrentPirate\obj\Debug\TorrentPirate.exe
+C:\Users\Pepi\Desktop\Pepina\Programming Basics\1ExamProblem\TorrentPirate\obj\Debug\TorrentPirate.pdb
